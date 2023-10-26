@@ -1,4 +1,4 @@
 # repo-25-oct
 planning demo sequence.
-**test**
-main reDME changed...from remote now,,
+hello
+**test**reDME changed...from remote now,,
